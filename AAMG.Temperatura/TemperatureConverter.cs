@@ -15,7 +15,7 @@ namespace AAMG.Temperatura
 
         public double FarenheitToCelcius(double farenheit)
         {
-            return (fahrenheit - 32) * 5 / 9;
+            return (farenheit - 32) * 5 / 9;
         }
 
 
